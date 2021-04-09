@@ -1,0 +1,12 @@
+🎉🎉 github.com/reiwashere 🎉🎉
+
+>> Bot ile alakalı herahngi bir hata aldığınız zaman ReiXD#1933 hesabıma ulaşabilirsiniz.
+
+🎉🎉 github.com/reiwashere 🎉
+
+Botun modüllerini indirmek için;
+
+1- Botun bulunduğu dosyaya Shift+Sağ tık yaparak Powershell dosyası olarak açın.
+2- npm init -y yazarak package.json dosyasını belirtin.
+3- npm i yazarak modülleri kurun.
+4- Powershell'i kapatıp baslat.bat dosyasını çalıştırın.
